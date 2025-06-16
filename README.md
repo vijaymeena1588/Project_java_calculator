@@ -1,26 +1,29 @@
-# 🧮 Java Swing Calculator
+# 🧮 Java Calculator
 
-A simple and intuitive **desktop calculator** built with Java and Swing. This project was created to demonstrate basic GUI development and event handling in Java using the Eclipse IDE.
+This is a simple **GUI-based calculator** developed in **Java using Swing**. The application features a **user-friendly interface** with buttons for digits, operators, clear, delete, and equals, along with a display field to show inputs and results.
 
----
+## 🎯 Project Goals
 
-## 📌 Features
+- ✅ Strengthen understanding of **Java GUI development** using **Swing components**
+- ✅ Practice **event-driven programming** by handling user inputs through `ActionListener`
+- ✅ Demonstrate **clean code structure** and **interface design** for desktop applications
 
-- ✅ Basic operations: Addition, Subtraction, Multiplication, Division
-- 🧠 Validates input (e.g., avoids multiple decimal points in a number)
-- 🧹 Clear and delete buttons for easy corrections
-- 🎨 Clean and simple GUI interface
-- ❌ Handles division by zero gracefully
+## 🛠️ Features
 
----
+- Basic arithmetic operations: `+`, `-`, `×`, `/`
+- Real-time input and result display
+- Decimal point and delete functionality
+- Error handling for invalid operations (like divide-by-zero)
+- Simple, intuitive, and responsive layout
 
+## 🧑‍💻 Technologies Used
 
-## 💻 Technologies Used
+- Java
+- Swing (GUI components)
+- Eclipse IDE
 
-- **Language:** Java  
-- **GUI Framework:** Java Swing  
-- **IDE:** Eclipse
+## 🚀 How to Run
 
-
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/java-calculator.git
