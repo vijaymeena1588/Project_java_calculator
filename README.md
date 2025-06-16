@@ -21,7 +21,6 @@ A simple and intuitive **desktop calculator** built with Java and Swing. This pr
 - **GUI Framework:** Java Swing  
 - **IDE:** Eclipse
 
----
 
 
 
